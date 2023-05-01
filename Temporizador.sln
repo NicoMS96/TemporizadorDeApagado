@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temporizador", "Temporizador\Temporizador.csproj", "{058AD1D1-882B-4036-ADE0-DBB2D7AE4775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058AD1D1-882B-4036-ADE0-DBB2D7AE4775}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{058AD1D1-882B-4036-ADE0-DBB2D7AE4775}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{058AD1D1-882B-4036-ADE0-DBB2D7AE4775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058AD1D1-882B-4036-ADE0-DBB2D7AE4775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C7704B8-0765-4AAA-90C7-9CA4823CF017}
+	EndGlobalSection
+EndGlobal

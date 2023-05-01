@@ -1,0 +1,11 @@
+E:\Nico\2023\repos\Temporizador\Temporizador\bin\Release\Temporizador.exe.config
+E:\Nico\2023\repos\Temporizador\Temporizador\bin\Release\Temporizador.exe
+E:\Nico\2023\repos\Temporizador\Temporizador\bin\Release\Temporizador.pdb
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.Form1.resources
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.formCuentaRegresiva.resources
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.Properties.Resources.resources
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.csproj.GenerateResource.cache
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.csproj.CoreCompileInputs.cache
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.exe
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.pdb
+E:\Nico\2023\repos\Temporizador\Temporizador\obj\Release\Temporizador.csproj.AssemblyReference.cache
